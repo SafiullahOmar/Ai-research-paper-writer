@@ -1,0 +1,24 @@
+# ===========================================
+# AI Research Agent - Python Dependencies
+# ===========================================
+
+# Web Framework
+flask>=3.0.0
+
+# LangChain and LangGraph
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-groq>=0.1.0
+langgraph>=0.0.40
+
+# PDF handling
+PyPDF2>=3.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Type hints
+typing-extensions>=4.0.0
